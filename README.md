@@ -1,6 +1,6 @@
 ## Certificate_generator
 ***Automatic Certificate Generator with Multiple Templates.***
-Of course. Here is the README content for the certificate generator notebook:
+
 
 # Automatic Certificate Generator
 
